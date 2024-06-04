@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
     background-color: rgb(245, 154, 36);
     height: 50px;
@@ -30,4 +31,13 @@ header {
 .menu a {
     text-decoration: none;
     color: rgb(2, 167, 240);
+=======
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6C6C6C;
+>>>>>>> tristan
 }

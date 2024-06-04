@@ -30,7 +30,8 @@ header {
 .menu a {
     text-decoration: none;
     color: rgb(2, 167, 240);
-=======
+}
+
 /* Footer */
 
 .footer {
@@ -38,7 +39,7 @@ header {
     justify-content: center;
     align-items: center;
     background-color: #6C6C6C;
->>>>>>> tristan
+
 }
 
 
